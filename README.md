@@ -1,9 +1,9 @@
 # ml-project-premium-prediction
 # Try Web APP
 
-(click here see web app)[https://insurancepricepredictionbyzaidnaeem.streamlit.app/]
+[click here see web app](https://insurancepricepredictionbyzaidnaeem.streamlit.app/)
 
-!(screenshot)[gitimg.png]
+![screenshot](gitimg.png)
 Built a regression-based AI system that predicts the insurance premium a customer may be charged — based on their demographics, medical history, lifestyle, and regional information.
 This model supports insurance companies in offering fair and data-driven pricing.
 
